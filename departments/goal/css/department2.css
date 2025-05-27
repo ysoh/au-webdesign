@@ -8,6 +8,7 @@ body {
     padding: 20px;
     background-color: #f8f8f8;
     color: #333;
+    background: #ededed url(../img/bg_warp.gif) repeat-x 0 top;
 }
 
 /* 학과소개 섹션 스타일 */
