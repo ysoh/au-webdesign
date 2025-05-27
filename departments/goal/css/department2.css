@@ -46,6 +46,7 @@ section > ul {
 
 section > ul > li {
     min-width: 290px;
+    border-radius: 5px;
     border: 1px solid #e0e0e0;
     background-color: #fdfdfd;
     overflow: hidden; /* 혹시 내용이 넘칠 경우 대비 (필수는 아님) */
