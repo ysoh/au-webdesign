@@ -49,7 +49,7 @@ body {
 .article-image {
     margin-bottom: 15px;
     width: 100%;
-    height: 300px;
+    height: 250px;
     /* Fixed height for all images to maintain 3:2 aspect ratio with 450px width */
     overflow: hidden;
 }
@@ -105,7 +105,7 @@ body {
 }
 
 .article-body {
-    font-size: 1em;
+    font-size: 0.9em;
     /* Increased from 0.9em to 1em for slightly larger text */
     text-align: justify;
 }
