@@ -450,9 +450,9 @@ footer {
 }
 
 .footer-social img {
-    width: 28px;
-    height: 28px;
-    filter: brightness(0) invert(1);
+    width: 50px;
+    height: 50px;
+    /* filter: brightness(0) invert(1); */
     /* 흰색 아이콘으로 변경 */
     transition: transform 0.2s ease;
 }
