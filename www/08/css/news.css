@@ -34,6 +34,11 @@ article:last-child {
     border-bottom: none;
 }
 
+article div {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
 h2 {
     margin-left: auto;
     margin-right: auto;
